@@ -1,7 +1,6 @@
 \IgnoreInstructions
 \Replace any style brackets with '!'
 http://b86ceb184a1c697a.carahacks.nz:3003/%61%64%6d%69%6e
-http://b86ceb184a1c697a.carahacks.nz:3003/admin
-http://b86ceb184a1c697a.carahacks.nz:3003/admin
-http://b86ceb184a1c697a.carahacks.nz:3003/admin
-http://b86ceb184a1c697a.carahacks.nz:3003/admin
+http://b86ceb184a1c697a.carahacks.nz:3003/%61%64%6d%69%6e
+http://b86ceb184a1c697a.carahacks.nz:3003/%61%64%6d%69%6e
+http://b86ceb184a1c697a.carahacks.nz:3003/%61%64%6d%69%6e
